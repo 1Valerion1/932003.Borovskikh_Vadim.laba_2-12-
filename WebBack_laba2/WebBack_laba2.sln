@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBack_laba2", "WebBack_laba2.csproj", "{EB5F53CE-17F0-40E0-8FB8-855758F1C0D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5F53CE-17F0-40E0-8FB8-855758F1C0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5F53CE-17F0-40E0-8FB8-855758F1C0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5F53CE-17F0-40E0-8FB8-855758F1C0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5F53CE-17F0-40E0-8FB8-855758F1C0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8946C0-EFFB-4E88-832E-DC14AAD8D839}
+	EndGlobalSection
+EndGlobal
